@@ -20,6 +20,6 @@ Execute test on the terminal by running the command below
 ``` python -m pytest -v tests/ --junitxml=report/report.xml --template=html1/index.html --report=report/report.html --force-testdox ```
 
 ### Test reporting
-To view test report when test is executed locally from terminal:      
+To view test report when test is executed from terminal:      
 - Check the ./report folder for both .xml and .html test reports.      
 ![screenshot](image/test_report.png)
