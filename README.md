@@ -22,4 +22,5 @@ Execute test on the terminal by running the command below
 ### Test reporting
 To view test report when test is executed from terminal:      
 - Check the ./report folder for both .xml and .html test reports.      
-![screenshot](image/test_report.png)
+![screenshot](image/test_report.png)    
+![screenshot](image/execution_on_terminal.png)
