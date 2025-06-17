@@ -17,10 +17,10 @@ The repository contains E2E python test code with playwright
 
 ### Execute test from the terminal
 Execute test on the terminal by running the command below     
-``` python -m pytest -v tests/ --junitxml=report/report.xml --template=html1/index.html --report=report/report.html --force-testdox ```
+``` python -m pytest -v tests/ --junitxml=report/report.xml --template=html1/index.html --report=report/report.html --force-testdox ```           
+![screenshot](image/execution_on_terminal.png)
 
 ### Test reporting
 To view test report when test is executed from terminal:      
 - Check the ./report folder for both .xml and .html test reports.      
 ![screenshot](image/test_report.png)    
-![screenshot](image/execution_on_terminal.png)
