@@ -1,5 +1,5 @@
 
-## Test automation task       
+## Test automation with playwright
 The repository contains E2E python test code with playwright
 
 ### Setup
